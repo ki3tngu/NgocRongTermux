@@ -5,7 +5,7 @@ pkg install -y git python python-pip openjdk-17
 
 pip install gdown licensing mysql-connector-python requests
 
-git clone https://github.com/JINN1368/NgocRongTermux
+git clone https://github.com/ki3tngu/NgocRongTermux
 clear
 cd NgocRongTermux 
 mv *.sh ~/../usr/bin/
