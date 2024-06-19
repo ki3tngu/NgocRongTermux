@@ -23,7 +23,7 @@
 </div>
 <div align="center">
 
-[LẤY KEY](https://web1s.pro/fBL09vsX7c)
+[LẤY KEY](https://web1s.org/rXYkruSDUY)
 
 
 # THÔNG BÁO CẬP NHẬT TIẾP THEO
