@@ -23,7 +23,7 @@
 </div>
 <div align="center">
 
-[LẤY KEY](https://web1s.org/rXYkruSDUY)
+# [LẤY KEY](https://web1s.org/rXYkruSDUY)
 
 
 # THÔNG BÁO CẬP NHẬT TIẾP THEO
@@ -35,7 +35,7 @@ ${{\color{green}{\textsf{  SỬA\ LỖI\ GIAO\ DIỆN\ ✔️\ \}}}}\$
 
 ${{\color{red}{\textsf{  TỐI\ ƯU\ TOÀN \ BỘ\ MENU\ ✖️\ \}}}}\$
 
-${{\color{red}{\textsf{  CẬP\ NHẬT\ CHỨC\ NĂNG\ ✖️\ \}}}}\$
+${{\color{green}{\textsf{  CẬP\ NHẬT\ CHỨC\ NĂNG\ ✔️\ \}}}}\$
 <div align="center">
   
 # CÂU HỎI THƯỜNG GẶP
