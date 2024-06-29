@@ -33,7 +33,7 @@
 
 ### ${{\color{green}{\textsf{  SỬA\ LỖI\ GIAO\ DIỆN\ ✔️\ \}}}}\$
 
-### ${{\color{red}{\textsf{  TỐI\ ƯU\ TOÀN \ BỘ\ MENU\ ✖️\ \}}}}\$
+### ${{\color{red}{\textsf{  TỐI\ ƯU\ TOÀN \ BỘ\ MENU\ ✖️\ (50\\%)\ \}}}}\$
 
 ### ${{\color{green}{\textsf{  CẬP\ NHẬT\ CHỨC\ NĂNG\ ✔️\ \}}}}\$
 <div align="center">
