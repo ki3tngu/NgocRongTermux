@@ -23,7 +23,7 @@
 </div>
 <div align="center">
 
-# [LẤY KEY](https://web1s.org/rXYkruSDUY)
+# [LẤY KEY](https://web1s.me/eA6uOvN3nM)
 
 
 # THÔNG BÁO CẬP NHẬT TIẾP THEO
@@ -78,9 +78,9 @@ jinn1368.sh
 </div>
 
 ### BƯỚC 1 - CHẠY SERVER
-- HÃY CHẮC CHẮN RẰNG [KSWEB](https://xemlinkhot.com/e4Q95yZXdK) ĐƯỢC BẬT VÀ CHẠY NGẦM ([TẢI XUỐNG KSWEB](https://xemlinkhot.com/e4Q95yZXdK))
+- HÃY CHẮC CHẮN RẰNG [KSWEB](https://web1s.me/Nm538YQmqS) ĐƯỢC BẬT VÀ CHẠY NGẦM ([TẢI XUỐNG KSWEB](https://web1s.me/Nm538YQmqS))
 - SERVER ĐƯỢC MỞ TỪ TERMUX
-- TÊN DATABASE ([SQL](https://xemnote.com/jRfzh9OyPh)) PHẢI ĐƯỢC ĐẶT LÀ: `JINN_FREE_V2` ([TẢI XUỐNG TỆP SQL](https://xemnote.com/jRfzh9OyPh))
+- TÊN DATABASE ([SQL](https://web1s.me/yJnFgQKiGV)) PHẢI ĐƯỢC ĐẶT LÀ: `JINN_FREE_V2` ([TẢI XUỐNG TỆP SQL](https://web1s.me/yJnFgQKiGV))
 ### BƯỚC 2 - VÀO GAME
 - SAU KHI SERVER ĐƯỢC MỞ HÃY VÀO GAME
 - CÁC PHIÊN BẢN [APK](https://github.com/JINN1368/NgocRongTermux/releases) PHÙ HỢP VỚI PHIÊN BẢN ([TẢI XUỐNG CÁC BẢN APK DÀNH RIÊNG](https://github.com/JINN1368/NgocRongTermux/releases))
