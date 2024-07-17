@@ -1,113 +1,37 @@
-<span>
 
-  <div align="center">
+PHIÊN BẢN SẼ QUAY TRỜ LẠI SAU MỘT KHOẢNG THỜI GIAN. CẢM ƠN CÁC BẠN ĐÃ TIN TƯỞNG, SỬ DỤNG VÀ ỦNG HỘ PHIÊN BẢN NÀY. PHIÊN BẢN NÀY SẼ TẠM ĐÓNG VÌ MỘT SỐ LÝ DO CÁ NHÂN. LẦN QUAY LẠI SẮP TỚI HỨA HẸN MANG ĐẾN TRẢI NGHIỆM TỐT NHẤT DÀNH CHO CÁC CON NGHẸO
 
-  <a href="https://www.facebook.com/ki3tngu">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white" style="height:40px;"/>
-  </a>
-   </a>
-   <a href="https://github.com/JINN1368">
-    <img alt="Facebook" src="https://img.shields.io/badge/Github-333333?&logo=github&logoColor=white" style="height:40px;"/>
-  </a>
-   <a href="https://www.youtube.com/channel/UCLmZUmjdiwKxMEcYdgJ6Rww?sub_confirmation=1">
-    <img alt="Facebook" src="https://img.shields.io/badge/Youtube-fc036f?&logo=youtube&logoColor=white" style="height:40px;"/>
-  </a>
-  <br/>
-  <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NgocRongTermux/total.svg?style=for-the-badge&color="green" />
-  <img alt="Build Version" src="https://img.shields.io/badge/NRO VERSION-2.1.1-red?style=for-the-badge"/>
-  <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NgocRongTermux.svg?style=for-the-badge"/>
-  <br/>
+- MIỄN PHÍ
+- GIAO DIỆN ĐẸP HƠN
+- DỄ SỬ DỤNG HƠN
+- DỄ HIỂU HƠN
+- NHIỀU CHỨC NĂNG HƠN
+- DANH SÁCH VẬT PHẨM
+- VÀ NHIỀU THỨ KHÁC
+- HỖ TRỢ ( PC/LAPTOP, ANDROID, JAVA, IOS ( NẾU RẢNH ) )
 
-
-  
-</div>
+SẮP TỚI SẼ CÓ NHIỀU GAME HƠN CHO ANH EM CHƠI.
+- LÀNG LÁ
+- NGỌC RỒNG
+- VÀ CÁC TỰ GAME TUỔI THƠ KHÁC
 <div align="center">
 
-# [LẤY KEY](https://web1s.me/eA6uOvN3nM)
-
-
-# THÔNG BÁO CẬP NHẬT TIẾP THEO
+# DONATE NẾU BẠN MUỐN :)))
+ <a class="header-badge" target="_blank" href="https://www.facebook.com/Ki3tNgu/">
+        <img src="https://img.shields.io/badge/style--5eba00.svg?label=Facebook&logo=facebook&style=social">
+    </a>
+    <a class="header-badge" target="_blank" href="https://www.youtube.com/@JINN1368">
+        <img alt="Youtube" src="https://img.shields.io/badge/style--5eba00.svg?label=Youtube&logo=youtube&style=social">
+    </a>
+     <a class="header-badge" target="_blank" href="https://github.com/ki3tngu/">
+        <img alt="Github" src="https://img.shields.io/badge/style--5eba00.svg?label=Github&logo=github&style=social">
+    </a><br>
+    <img alt="Donate" src="https://cdn.worldvectorlogo.com/logos/momo-2.svg" style="width:20px;" /> 0853035354
+    <img alt="Donate" src="https://play-lh.googleusercontent.com/eropcks-sakGkOkCHQzpd87FKK4efHTLY5b93H2FwNLjoPnPcAMSzOHsm3s6lguSgw" style="width:20px;" /> 0853035354<br>
+    <a href="https://github.com/ki3tngu/NgocRongTermux" target="_blank">Ngọc Rồng Offline</a>
+    <br>
+    <sub>Tác giả:
+        <a href="https://www.youtube.com/@JINN1368" target="_blank">JINN1368</a><br>
+        <small> Tháng 7, 2024</small>
+    </sub>
 </div>
-
-### ${{\color{green}{\textsf{  SỬA\ LỖI\ TẠO\ IP\ ✔️\ \}}}}\$
-
-### ${{\color{green}{\textsf{  SỬA\ LỖI\ GIAO\ DIỆN\ ✔️\ \}}}}\$
-
-### ${{\color{red}{\textsf{  TỐI\ ƯU\ TOÀN \ BỘ\ MENU\ ✖️\ (50\\%)\ \}}}}\$
-
-### ${{\color{green}{\textsf{  CẬP\ NHẬT\ CHỨC\ NĂNG\ ✔️\ \}}}}\$
-<div align="center">
-  
-# CÂU HỎI THƯỜNG GẶP
-</div>
-
-### MỘT SERVER TỐI ĐA BAO NHIÊU NGƯỜI CHƠI
-- VỚI 40 KẾT NỐI. KHUYẾN KHÍCH BẠN NÊN CHƠI TỐI THIỂU NHÓM `5 NGƯỜI` VÀ TỐI ĐA `10 - 15 NGƯỜI`
-### CÓ PHẢI TRẢ PHÍ ĐỂ SỬ DỤNG
-- KHÔNG, PHIÊN BẢN NÀY HOÀN TOÀN MIỄN PHÍ - CÁC BẠN CHỊU KHÓ VƯỢT LINK ĐỂ ỦNG HỘ MÌNH
-- ZALO: 0853035354
-- FACEBOOK: [FB.COM](fb.com/K3tNgu)
-### IP CỦA SERVER
-- MẶC ĐỊNH: `JINN:127.0.0.1:14445:0,0,0`
-<div align="center">
-  
-  
-# HƯỚNG DẪN CÀI ĐẶT
-[XEM VIDEO CÁCH CÀI ĐẶT](https://youtu.be/7xpdwwhFdos)
-
-[XEM HDSD CHI TIẾT](https://github.com/JINN1368/NgocRongTermux/blob/main/HDSD.md)
-
-</div>
-
-### SAO CHÉP VÀ DÁN ĐOẠN MÃ DƯỚI VÀO TERMUX
-```
-apt update
-apt upgrade -y
-clear
-curl -L --max-redirs 15 --progress-bar "https://raw.githubusercontent.com/ki3tngu/NgocRongTermux/main/install.sh" -o install.sh && bash install.sh
-```
-### MỘT SỐ CÂU LỆNH
-- MỞ MENU
-```
-jinn1368.sh
-```
-
-<div align="center">
-
-  # HƯỚNG DẪN SỬ DỤNG
-</div>
-
-### BƯỚC 1 - CHẠY SERVER
-- HÃY CHẮC CHẮN RẰNG [KSWEB](https://web1s.me/Nm538YQmqS) ĐƯỢC BẬT VÀ CHẠY NGẦM ([TẢI XUỐNG KSWEB](https://web1s.me/Nm538YQmqS))
-- SERVER ĐƯỢC MỞ TỪ TERMUX
-- TÊN DATABASE ([SQL](https://web1s.me/yJnFgQKiGV)) PHẢI ĐƯỢC ĐẶT LÀ: `JINN_FREE_V2` ([TẢI XUỐNG TỆP SQL](https://web1s.me/yJnFgQKiGV))
-### BƯỚC 2 - VÀO GAME
-- SAU KHI SERVER ĐƯỢC MỞ HÃY VÀO GAME
-- CÁC PHIÊN BẢN [APK](https://github.com/JINN1368/NgocRongTermux/releases) PHÙ HỢP VỚI PHIÊN BẢN ([TẢI XUỐNG CÁC BẢN APK DÀNH RIÊNG](https://github.com/JINN1368/NgocRongTermux/releases))
-### BƯỚC 3 - TẠO TÀI KHOẢN
-> TÀI KHOẢN MẶC ĐỊNH<br/>
-> USERNAME: jinn<br/>
-> PASSWORD: 1368
-- VÀO GAME NHẤN CHƠI MỚI
-- HÃY THỬ THOÁT GAME VÀO LẠI, XÓA DỮ LIỆU..., NẾU KHÔNG THỂ ĐĂNG NHẬP
-### TẠO IP
-- DÙNG ĐỂ TẠO IP SERVER ONLINE
-- ĐỂ TẠO IP HÃY SAO CHÉP VÀ DÁN CÂU LỆNH SAU VÀO TERMUX
-```
-pkg update -y
-pkg install git
-git clone https://github.com/Yisus7u7/termux-ngrok
-cd termux-ngrok
-bash install.sh
-```
-- SAU ĐÓ TRUY CẬP [ngrok](https://ngrok.com/). TẠO TÀI KHOẢN > COPY AUTHTOKEN > DÁN VÀO TERMUX > MỞ MENU VÀ TẠO IP
-<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/Screenshot_2023-12-15-19-12-45-930_com.android.chrome.png"/>
-<div align="center">
-
-# ẢNH CHỤP MÀN HÌNH
-<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/ingame.jpg"/>
-<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/menu1.jpg"/>
-<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/menu2.jpg"/>
-<img src="https://raw.githubusercontent.com/JINN1368/NgocRongTermux/main/screenshots/menu3.jpg"/>
-</div>
-</span>
