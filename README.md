@@ -13,7 +13,7 @@ PHIÊN BẢN SẼ QUAY TRỜ LẠI SAU MỘT KHOẢNG THỜI GIAN. CẢM ƠN CÁ
 SẮP TỚI SẼ CÓ NHIỀU GAME HƠN CHO ANH EM CHƠI.
 - LÀNG LÁ
 - NGỌC RỒNG
-- VÀ CÁC TỰ GAME TUỔI THƠ KHÁC
+- VÀ CÁC TỰA GAME TUỔI THƠ KHÁC
 <div align="center">
 
 # DONATE NẾU BẠN MUỐN :)))
